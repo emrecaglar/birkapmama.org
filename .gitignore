@@ -14,3 +14,4 @@
 # ignore vendor packages
 vendor/*
 !vendor/vendor.json
+node_modules

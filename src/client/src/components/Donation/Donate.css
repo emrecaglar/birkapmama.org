@@ -1,0 +1,18 @@
+.donate-btn{
+    color: white;
+    border-color: white;
+    border-radius: 0px;
+    margin-top: auto;
+    margin-left: 45%;
+    bottom: 30%;
+    position: absolute;
+
+    border: 3px solid white;
+    padding: 12px 30px 12px 30px;
+    background-color: transparent;
+    cursor: pointer;
+}
+.donate-btn:hover{
+    border: 3px solid gold;
+    color: gold;
+}
